@@ -13,3 +13,8 @@ The Landmarks are identified as below:
 3. Intall the required dependancies : `pip install -r requirements.txt`
 4. Install autpy : `pip install autopy`
 5. Now finally run : `python3 main.py`
+
+### How it works:
+You have to point your index finger to move the mouse:
+
+To click you have to bring your index and middle finger together:
