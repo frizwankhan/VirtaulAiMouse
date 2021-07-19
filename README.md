@@ -16,5 +16,6 @@ The Landmarks are identified as below:
 
 ### How it works:
 You have to point your index finger to move the mouse:
-
+![WhatsApp Image 2021-07-19 at 7 12 54 PM](https://user-images.githubusercontent.com/64288750/126170368-3a19e2ec-45ec-4a47-bf7b-b42013eb7d15.jpeg)
 To click you have to bring your index and middle finger together:
+![WhatsApp Image 2021-07-19 at 7 12 31 PM](https://user-images.githubusercontent.com/64288750/126170410-8be8e82a-cba9-4bf7-9797-5ef93c6f42c3.jpeg)
